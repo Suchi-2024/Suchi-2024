@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Suchi-2024
 - 👀 I’m interested in Machine-Learning, Data Science,Web-Development
-- 🌱 I’m currently learning Machine-Learning, Data Science,Web-Development,AI
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Machine-Learning, Data Science,Web-Development,AI, Statistics
+- 💞️ I’m looking to collaborate on some interesting AI-Ml projects
 
 
 <!---
